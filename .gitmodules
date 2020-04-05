@@ -77,4 +77,4 @@
 [submodule "sources/meta-webkit"]
 	path = sources/meta-webkit
 	url = git://github.com/yoedistro/meta-webkit
-	branch = master
+	branch = yoe/mut
