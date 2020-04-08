@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
 # the following can be used inside functions that return strings to display
 # messages on console
-umask 022
-
 echoerr() {
   echo $@ >&2
 }
