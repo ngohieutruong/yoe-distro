@@ -42,10 +42,6 @@
 	path = sources/meta-qcom
 	url = https://github.com/YoeDistro/meta-qcom
 	branch = yoe/mut
-[submodule "sources/meta-variscite-fslc"]
-	path = sources/meta-variscite-fslc
-	url = https://github.com/YoeDistro/meta-variscite-fslc
-	branch = yoe/mut
 [submodule "sources/meta-yoe"]
 	path = sources/meta-yoe
 	url = https://github.com/YoeDistro/meta-yoe
